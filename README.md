@@ -1,1 +1,1 @@
-# ritikeditor.github.io
+ritikeditor.in
